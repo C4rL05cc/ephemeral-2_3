@@ -1,0 +1,26 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "primer despliegue",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C4rL05cc/ephemeral-2_3.git"
+  },
+  "keywords": [
+    "simple",
+    "heroku"
+  ],
+  "author": "Carlos Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C4rL05cc/ephemeral-2_3/issues"
+  },
+  "homepage": "https://github.com/C4rL05cc/ephemeral-2_3#readme"
+}
