@@ -1,2 +1,1 @@
-<div>Hola mundo</div>
-//console.log("hola mundo");
+console.log("hola mundo");
